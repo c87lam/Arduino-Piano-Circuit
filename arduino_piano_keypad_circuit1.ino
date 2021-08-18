@@ -1,21 +1,19 @@
 /*
-	Arduino Keypad Piano Circuit
+Arduino Keypad Piano Circuit
 
-	This arduino circuit functions as a piano; however, the keypad is used
-    as an input of the piano with the piezo buzzer being the output. Each keys
-    would play a note with a different frequency. The frequencies of each key
-    is based off a piano note.
+This arduino circuit functions as a piano; however, the keypad is used
+as an input of the piano with the piezo buzzer being the output. Each keys
+would play a note with a different frequency. The frequencies of each key
+is based off a piano note.
 
-	The circuit:
-	* (1) x Arduno Uno R3
-	* (1) x 4x4 Keypad
-    * (1) x Piezo Buzzer
-    * (10) x Wires
+The circuit:
+* (1) x Arduno Uno R3
+* (1) x 4x4 Keypad
+* (1) x Piezo Buzzer
+* (10) x Wires
 
-	Created in January 18, 2021
-	By Collin Lam
-
-	https://create.arduino.cc/projecthub/sumanbargavr/keyboard-24129b
+Created in January 18, 2021
+By Collin Lam
 
 */
 
